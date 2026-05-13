@@ -9,4 +9,4 @@
 ## AWS CDK deployment
 
 - [S3 Bucket](https://cdkstack-shopmarketmikemo94e990bf-n35t2ikche6a.s3.eu-north-1.amazonaws.com/)
-- [CloudFront](d38zgoaow9fqkc.cloudfront.net/)
+- [CloudFront](https://d38zgoaow9fqkc.cloudfront.net/)
